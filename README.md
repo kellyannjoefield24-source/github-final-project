@@ -24,3 +24,11 @@ Where:
 ## Technologies Used
 * Python (Core Logic)
 * Markdown (Documentation)
+$ git checkout main
+Switched to branch 'main'
+
+$ git merge bug-fix-typo
+Updating a1b2c3d..e5f6g7h
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
