@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Final Project: Emotion Detection System
 
 A professional tool designed to calculate the total interest accrued on a principal amount over a specific period at a fixed interest rate.
 
